@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    
+}
+
+section{
+    
+}
+
+#intro{
+    width: 100%;
+    min-height: 700px;
+    background-color: lightgray;
+}
+
+.main{
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 700px;
+}
+
+.intro_block{
+    width: 50%;
+    height: 300px;
+    background-color: darkgray;
+    float: left;
+}
+
+.intro_block_alt{
+    background-color: aqua;
+}
